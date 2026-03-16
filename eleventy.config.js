@@ -8,6 +8,7 @@ export default function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
+    pathPrefix: "/11ty-govuk-static-site-test/"
     dir: {
       // The folder where all your content will live:
       input: 'docs',

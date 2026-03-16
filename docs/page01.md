@@ -3,4 +3,4 @@ layout: page
 title: my first page
 ---
 
-blah blah words for the page01.md see change in _site
+blah blah words for the page01.md see change in _site folder
