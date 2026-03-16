@@ -9,7 +9,7 @@ export default function(eleventyConfig) {
       },
       productName: 'Apply for a juggling licence',
     },
-    stylesheets: ['/assets/styles.css'],
+    stylesheets: ['/assets/styles.css']
   })
 
   return {
