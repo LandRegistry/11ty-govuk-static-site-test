@@ -5,9 +5,13 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
       logotype: {
-        text: 'Circus Agency'
+        text: 'HM Land Registry Digital Design Manual'
       },
-      productName: 'Apply for a juggling licence',
+    },
+    footer: {
+      copyright: {
+        text: ''
+      },
     },
     stylesheets: ['/assets/styles.css']
   })
