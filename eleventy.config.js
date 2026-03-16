@@ -12,7 +12,7 @@ export default function(eleventyConfig) {
       copyright: {
         text: ' '
       },
-      contentLicence {
+      contentLicence: {
         text: ' '
       },
     },
