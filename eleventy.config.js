@@ -10,7 +10,7 @@ export default function(eleventyConfig) {
     },
     footer: {
       copyright: {
-        text: ''
+        html: '<p>wibble</p>'
       },
     },
     stylesheets: ['/assets/styles.css']
